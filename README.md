@@ -3,9 +3,9 @@
 
 Je termine un BUT Informatique (France) en double diplôme avec un DEC en Techniques de l'informatique au Cégep de Sept-Îles. Je viens du développement web et mobile, et je me spécialise dans le jeu vidéo, côté programmation gameplay (Unity / C#).
 
-💼 Actuellement développeur logiciel junior chez Alouette laboratory (Sept-Îles)
-🎮 En ce moment : je développe en solo un jeu de rythme sous Unity (duel de boss en lanes, alternance attaque / défense)
-🎯 Objectif : rejoindre une équipe de jeu vidéo au Québec (Montréal ou Québec) comme gameplay programmer
+💼 Actuellement développeur logiciel junior chez Alouette laboratory (Sept-Îles)<br>
+🎮 En ce moment : je développe en solo un jeu de rythme sous Unity (duel de boss en lanes, alternance attaque / défense)<br>
+🎯 Objectif : rejoindre une équipe de jeu vidéo comme gameplay programmer<br><br>
 🛠️ Compétences
 
 Jeu vidéo
@@ -19,8 +19,7 @@ Web & mobile
 Outils & systèmes
 
 <p> <img src="https://skillicons.dev/icons?i=git,github,linux,bash,arduino,vscode" alt="Git, GitHub, Linux, Bash, Arduino, VS Code"> </p>
-🎮 Projets jeu vidéo
-Projet	Description	Mon rôle	Tech
+🎮 Projets jeu vidéo <br>
 Projet Nemosis	Jeu de gestion de village grec face à Chronos, en équipe. Build WebGL sur itch.io à ce lien https://jijox.itch.io/nemosis (mot de passe: NEMOSIS).	Mini-jeu de rythme, clicker, boss de fin, effets de cartes	Unity · C#
 
 Jeu de rythme (en cours)	Duel de boss en lanes avec phases d'attaque et de défense, inspiré de Rift of the NecroDancer.	Développement solo complet	Unity · C#
