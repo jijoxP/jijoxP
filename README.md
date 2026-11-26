@@ -1,11 +1,14 @@
-<h1 align="center">Salut, moi c'est Jordan Pasqualini 👋</h1> <p align="center"> <b>Développeur logiciel & futur gameplay programmer</b><br> 📍 Sept-Îles, Québec · 🇫🇷 Français · Diplômé en 2027 </p> <p align="center"> <a href="https://jijoxp.github.io/"><img src="https://img.shields.io/badge/Portfolio-jijoxp.github.io-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a> <a href="mailto:jordan.pasq@gmail.com"><img src="https://img.shields.io/badge/Email-jordan.pasq@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/jordan-pasqualini/"><img src="https://img.shields.io/badge/LinkedIn-Jordan_Pasqualini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+<h1 align="center">Salut, moi c'est Jordan Pasqualini !</h1> <p align="center"> <b>Développeur logiciel & futur gameplay programmer</b><br> 📍 Sept-Îles, Québec · 🇫🇷 Français · Diplômé en 2027 </p> <p align="center"> <a href="https://jijoxp.github.io/"><img src="https://img.shields.io/badge/Portfolio-jijoxp.github.io-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a> <a href="mailto:jordan.pasq@gmail.com"><img src="https://img.shields.io/badge/Email-jordan.pasq@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <a href="https://www.linkedin.com/in/jordan-pasqualini/"><img src="https://img.shields.io/badge/LinkedIn-Jordan_Pasqualini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
 🧭 À propos
 
 Je termine un BUT Informatique (France) en double diplôme avec un DEC en Techniques de l'informatique au Cégep de Sept-Îles. Je viens du développement web et mobile, et je me spécialise dans le jeu vidéo, côté programmation gameplay (Unity / C#).
 
-💼 Actuellement développeur logiciel junior chez Alouette laboratory (Sept-Îles)<br>
-🎮 En ce moment : je développe en solo un jeu de rythme sous Unity (duel de boss en lanes, alternance attaque / défense)<br>
-🎯 Objectif : rejoindre une équipe de jeu vidéo comme gameplay programmer<br><br>
+💼 Actuellement développeur logiciel junior chez Alouette laboratory (Sept-Îles)
+<br>
+🎮 En ce moment : je développe en solo un jeu de rythme sous Unity (duel de boss en lanes, alternance attaque / défense)
+<br>
+🎯 Objectif : rejoindre une équipe de jeu vidéo comme junior gameplay programmer
+<br><br>
 🛠️ Compétences
 
 Jeu vidéo
